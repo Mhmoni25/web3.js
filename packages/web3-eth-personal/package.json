@@ -14,7 +14,7 @@
     },
     "main": "lib/index.js",
     "dependencies": {
-        "@types/node": "^12.12.6",
+        "@types/node": "^12.20.34",
         "web3-core": "1.6.0",
         "web3-core-helpers": "1.6.0",
         "web3-core-method": "1.6.0",
