@@ -15,7 +15,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "eventemitter3": "4.0.4",
-        "web3-core-helpers": "1.6.0"
+        "web3-core-helpers": "1.8.1"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
