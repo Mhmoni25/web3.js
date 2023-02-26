@@ -15,7 +15,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "web3-eth-iban": "1.6.0",
-        "web3-utils": "1.6.0"
+        "web3-utils": "1.8.2"
     },
     "devDependencies": {
         "@types/node": "^12.12.6",
