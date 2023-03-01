@@ -19,7 +19,7 @@
         "web3-core-helpers": "1.6.0",
         "web3-core-method": "1.6.0",
         "web3-net": "1.6.0",
-        "web3-utils": "1.6.0"
+        "web3-utils": "1.8.2"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
