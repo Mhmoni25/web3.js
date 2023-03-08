@@ -12,6 +12,6 @@
         "compile": "tsc -b tsconfig.json"
     },
     "dependencies": {
-        "eventemitter3": "4.0.4"
+        "eventemitter3": "4.0.7"
     }
 }
