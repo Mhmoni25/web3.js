@@ -21,7 +21,7 @@
         "web3-eth-abi": "1.8.2",
         "web3-eth-accounts": "1.8.2",
         "web3-eth-contract": "1.8.2",
-        "web3-eth-ens": "1.8.2",
+        "web3-eth-ens": "1.10.3",
         "web3-eth-iban": "1.8.2",
         "web3-eth-personal": "1.8.2",
         "web3-net": "1.8.2",
