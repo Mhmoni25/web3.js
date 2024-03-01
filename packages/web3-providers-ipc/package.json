@@ -15,7 +15,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "oboe": "2.1.5",
-        "web3-core-helpers": "1.8.2"
+        "web3-core-helpers": "1.10.4"
     },
     "devDependencies": {
         "@types/node": "^12.12.6",
