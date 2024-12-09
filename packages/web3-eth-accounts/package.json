@@ -22,7 +22,7 @@
         "uuid": "^9.0.0",
         "web3-core": "1.8.2",
         "web3-core-helpers": "1.8.2",
-        "web3-core-method": "1.8.2",
+        "web3-core-method": "1.10.4",
         "web3-utils": "1.8.2"
     },
     "devDependencies": {
